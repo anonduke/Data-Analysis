@@ -1,0 +1,1320 @@
+Patient_ID,Result,Risk_Level,Recommendation
+1,negative,Moderate,Monitor closely and consult doctor
+2,positive,High,Immediate medical attention
+3,negative,Moderate,Monitor closely and consult doctor
+4,positive,High,Immediate medical attention
+5,negative,Moderate,Monitor closely and consult doctor
+6,negative,Low,Maintain healthy lifestyle
+7,negative,Moderate,Monitor closely and consult doctor
+8,positive,High,Immediate medical attention
+9,negative,Moderate,Monitor closely and consult doctor
+10,negative,Moderate,Monitor closely and consult doctor
+11,negative,Moderate,Monitor closely and consult doctor
+12,negative,Moderate,Monitor closely and consult doctor
+13,positive,High,Immediate medical attention
+14,negative,Low,Maintain healthy lifestyle
+15,negative,Moderate,Monitor closely and consult doctor
+16,positive,High,Immediate medical attention
+17,positive,High,Immediate medical attention
+18,negative,Low,Maintain healthy lifestyle
+19,negative,Moderate,Monitor closely and consult doctor
+20,positive,High,Immediate medical attention
+21,negative,Moderate,Monitor closely and consult doctor
+22,positive,High,Immediate medical attention
+23,positive,High,Immediate medical attention
+24,positive,High,Immediate medical attention
+25,positive,High,Immediate medical attention
+26,positive,High,Immediate medical attention
+27,negative,Moderate,Monitor closely and consult doctor
+28,negative,Moderate,Monitor closely and consult doctor
+29,positive,High,Immediate medical attention
+30,negative,High,Immediate medical attention
+31,positive,High,Immediate medical attention
+32,negative,Moderate,Monitor closely and consult doctor
+33,positive,High,Immediate medical attention
+34,negative,Moderate,Monitor closely and consult doctor
+35,positive,High,Immediate medical attention
+36,positive,High,Immediate medical attention
+37,negative,Moderate,Monitor closely and consult doctor
+38,negative,Moderate,Monitor closely and consult doctor
+39,negative,Low,Maintain healthy lifestyle
+40,positive,High,Immediate medical attention
+41,negative,Moderate,Monitor closely and consult doctor
+42,negative,Low,Maintain healthy lifestyle
+43,positive,High,Immediate medical attention
+44,positive,High,Immediate medical attention
+45,positive,High,Immediate medical attention
+46,positive,High,Immediate medical attention
+47,positive,High,Immediate medical attention
+48,negative,Moderate,Monitor closely and consult doctor
+49,negative,Moderate,Monitor closely and consult doctor
+50,negative,Moderate,Monitor closely and consult doctor
+51,positive,High,Immediate medical attention
+52,negative,Low,Maintain healthy lifestyle
+53,positive,High,Immediate medical attention
+54,negative,Low,Maintain healthy lifestyle
+55,positive,High,Immediate medical attention
+56,negative,Low,Maintain healthy lifestyle
+57,negative,Low,Maintain healthy lifestyle
+58,positive,High,Immediate medical attention
+59,positive,High,Immediate medical attention
+60,positive,High,Immediate medical attention
+61,positive,High,Immediate medical attention
+62,positive,High,Immediate medical attention
+63,positive,High,Immediate medical attention
+64,positive,High,Immediate medical attention
+65,positive,High,Immediate medical attention
+66,negative,Low,Maintain healthy lifestyle
+67,positive,High,Immediate medical attention
+68,positive,High,Immediate medical attention
+69,negative,Low,Maintain healthy lifestyle
+70,negative,Low,Maintain healthy lifestyle
+71,negative,Low,Maintain healthy lifestyle
+72,positive,High,Immediate medical attention
+73,positive,High,Immediate medical attention
+74,negative,Low,Maintain healthy lifestyle
+75,positive,High,Immediate medical attention
+76,negative,Moderate,Monitor closely and consult doctor
+77,positive,High,Immediate medical attention
+78,negative,Low,Maintain healthy lifestyle
+79,positive,High,Immediate medical attention
+80,positive,High,Immediate medical attention
+81,positive,High,Immediate medical attention
+82,positive,High,Immediate medical attention
+83,positive,High,Immediate medical attention
+84,positive,High,Immediate medical attention
+85,positive,High,Immediate medical attention
+86,positive,High,Immediate medical attention
+87,negative,Moderate,Monitor closely and consult doctor
+88,negative,Low,Maintain healthy lifestyle
+89,positive,High,Immediate medical attention
+90,positive,High,Immediate medical attention
+91,negative,Moderate,Monitor closely and consult doctor
+92,negative,Moderate,Monitor closely and consult doctor
+93,positive,High,Immediate medical attention
+94,positive,High,Immediate medical attention
+95,positive,High,Immediate medical attention
+96,positive,High,Immediate medical attention
+97,positive,High,Immediate medical attention
+98,positive,High,Immediate medical attention
+99,positive,High,Immediate medical attention
+100,positive,High,Immediate medical attention
+101,positive,High,Immediate medical attention
+102,positive,High,Immediate medical attention
+103,positive,High,Immediate medical attention
+104,positive,High,Immediate medical attention
+105,negative,Moderate,Monitor closely and consult doctor
+106,negative,Low,Maintain healthy lifestyle
+107,positive,High,Immediate medical attention
+108,negative,Moderate,Monitor closely and consult doctor
+109,positive,High,Immediate medical attention
+110,positive,High,Immediate medical attention
+111,negative,Moderate,Monitor closely and consult doctor
+112,positive,High,Immediate medical attention
+113,negative,Low,Maintain healthy lifestyle
+114,positive,High,Immediate medical attention
+115,positive,High,Immediate medical attention
+116,positive,High,Immediate medical attention
+117,positive,High,Immediate medical attention
+118,positive,High,Immediate medical attention
+119,positive,High,Immediate medical attention
+120,positive,High,Immediate medical attention
+121,positive,High,Immediate medical attention
+122,positive,High,Immediate medical attention
+123,positive,High,Immediate medical attention
+124,positive,High,Immediate medical attention
+125,positive,High,Immediate medical attention
+126,positive,High,Immediate medical attention
+127,positive,High,Immediate medical attention
+128,positive,High,Immediate medical attention
+129,negative,Moderate,Monitor closely and consult doctor
+130,positive,High,Immediate medical attention
+131,negative,Low,Maintain healthy lifestyle
+132,positive,High,Immediate medical attention
+133,negative,Moderate,Monitor closely and consult doctor
+134,positive,High,Immediate medical attention
+135,positive,High,Immediate medical attention
+136,positive,High,Immediate medical attention
+137,negative,Low,Maintain healthy lifestyle
+138,negative,Moderate,Monitor closely and consult doctor
+139,negative,Low,Maintain healthy lifestyle
+140,negative,Low,Maintain healthy lifestyle
+141,negative,Low,Maintain healthy lifestyle
+142,negative,Low,Maintain healthy lifestyle
+143,positive,High,Immediate medical attention
+144,negative,Low,Maintain healthy lifestyle
+145,positive,High,Immediate medical attention
+146,negative,Low,Maintain healthy lifestyle
+147,positive,High,Immediate medical attention
+148,negative,Low,Maintain healthy lifestyle
+149,positive,High,Immediate medical attention
+150,positive,High,Immediate medical attention
+151,negative,Low,Maintain healthy lifestyle
+152,negative,Low,Maintain healthy lifestyle
+153,negative,Low,Maintain healthy lifestyle
+154,positive,High,Immediate medical attention
+155,negative,Low,Maintain healthy lifestyle
+156,negative,Low,Maintain healthy lifestyle
+157,positive,High,Immediate medical attention
+158,positive,High,Immediate medical attention
+159,negative,Low,Maintain healthy lifestyle
+160,positive,High,Immediate medical attention
+161,positive,High,Immediate medical attention
+162,negative,Low,Maintain healthy lifestyle
+163,positive,High,Immediate medical attention
+164,positive,High,Immediate medical attention
+165,negative,Moderate,Monitor closely and consult doctor
+166,positive,High,Immediate medical attention
+167,positive,High,Immediate medical attention
+168,negative,Moderate,Monitor closely and consult doctor
+169,negative,Moderate,Monitor closely and consult doctor
+170,negative,Moderate,Monitor closely and consult doctor
+171,positive,High,Immediate medical attention
+172,positive,High,Immediate medical attention
+173,negative,Moderate,Monitor closely and consult doctor
+174,negative,Moderate,Monitor closely and consult doctor
+175,positive,High,Immediate medical attention
+176,negative,Moderate,Monitor closely and consult doctor
+177,negative,Moderate,Monitor closely and consult doctor
+178,negative,Low,Maintain healthy lifestyle
+179,positive,High,Immediate medical attention
+180,negative,Moderate,Monitor closely and consult doctor
+181,positive,High,Immediate medical attention
+182,positive,High,Immediate medical attention
+183,negative,Moderate,Monitor closely and consult doctor
+184,positive,High,Immediate medical attention
+185,negative,Low,Maintain healthy lifestyle
+186,positive,High,Immediate medical attention
+187,negative,Moderate,Monitor closely and consult doctor
+188,positive,High,Immediate medical attention
+189,negative,Low,Maintain healthy lifestyle
+190,positive,High,Immediate medical attention
+191,positive,High,Immediate medical attention
+192,positive,High,Immediate medical attention
+193,negative,Moderate,Monitor closely and consult doctor
+194,negative,Moderate,Monitor closely and consult doctor
+195,positive,High,Immediate medical attention
+196,positive,High,Immediate medical attention
+197,positive,High,Immediate medical attention
+198,negative,Low,Maintain healthy lifestyle
+199,negative,Moderate,Monitor closely and consult doctor
+200,positive,High,Immediate medical attention
+201,positive,High,Immediate medical attention
+202,positive,High,Immediate medical attention
+203,negative,Low,Maintain healthy lifestyle
+204,positive,High,Immediate medical attention
+205,negative,Moderate,Monitor closely and consult doctor
+206,positive,High,Immediate medical attention
+207,negative,Low,Maintain healthy lifestyle
+208,positive,High,Immediate medical attention
+209,positive,High,Immediate medical attention
+210,negative,High,Immediate medical attention
+211,negative,Moderate,Monitor closely and consult doctor
+212,negative,Low,Maintain healthy lifestyle
+213,positive,High,Immediate medical attention
+214,positive,High,Immediate medical attention
+215,positive,High,Immediate medical attention
+216,negative,Low,Maintain healthy lifestyle
+217,positive,High,Immediate medical attention
+218,negative,Moderate,Monitor closely and consult doctor
+219,negative,Moderate,Monitor closely and consult doctor
+220,negative,Low,Maintain healthy lifestyle
+221,negative,Moderate,Monitor closely and consult doctor
+222,positive,High,Immediate medical attention
+223,negative,Moderate,Monitor closely and consult doctor
+224,negative,Moderate,Monitor closely and consult doctor
+225,negative,Moderate,Monitor closely and consult doctor
+226,negative,Moderate,Monitor closely and consult doctor
+227,negative,Low,Maintain healthy lifestyle
+228,positive,High,Immediate medical attention
+229,negative,Moderate,Monitor closely and consult doctor
+230,negative,Moderate,Monitor closely and consult doctor
+231,negative,Moderate,Monitor closely and consult doctor
+232,negative,Moderate,Monitor closely and consult doctor
+233,positive,High,Immediate medical attention
+234,negative,Moderate,Monitor closely and consult doctor
+235,positive,High,Immediate medical attention
+236,positive,High,Immediate medical attention
+237,positive,High,Immediate medical attention
+238,negative,Low,Maintain healthy lifestyle
+239,negative,Low,Maintain healthy lifestyle
+240,positive,High,Immediate medical attention
+241,positive,High,Immediate medical attention
+242,positive,High,Immediate medical attention
+243,negative,Moderate,Monitor closely and consult doctor
+244,positive,High,Immediate medical attention
+245,positive,High,Immediate medical attention
+246,positive,High,Immediate medical attention
+247,negative,Low,Maintain healthy lifestyle
+248,positive,High,Immediate medical attention
+249,negative,Low,Maintain healthy lifestyle
+250,positive,High,Immediate medical attention
+251,negative,Low,Maintain healthy lifestyle
+252,positive,High,Immediate medical attention
+253,negative,Low,Maintain healthy lifestyle
+254,positive,High,Immediate medical attention
+255,negative,Moderate,Monitor closely and consult doctor
+256,positive,High,Immediate medical attention
+257,positive,High,Immediate medical attention
+258,positive,High,Immediate medical attention
+259,negative,Low,Maintain healthy lifestyle
+260,positive,High,Immediate medical attention
+261,positive,High,Immediate medical attention
+262,negative,Low,Maintain healthy lifestyle
+263,negative,Low,Maintain healthy lifestyle
+264,positive,High,Immediate medical attention
+265,negative,Low,Maintain healthy lifestyle
+266,positive,High,Immediate medical attention
+267,positive,High,Immediate medical attention
+268,positive,High,Immediate medical attention
+269,negative,Low,Maintain healthy lifestyle
+270,positive,High,Immediate medical attention
+271,negative,Low,Maintain healthy lifestyle
+272,positive,High,Immediate medical attention
+273,negative,Moderate,Monitor closely and consult doctor
+274,positive,High,Immediate medical attention
+275,negative,Low,Maintain healthy lifestyle
+276,negative,Low,Maintain healthy lifestyle
+277,negative,Low,Maintain healthy lifestyle
+278,positive,High,Immediate medical attention
+279,positive,High,Immediate medical attention
+280,positive,High,Immediate medical attention
+281,negative,Moderate,Monitor closely and consult doctor
+282,positive,High,Immediate medical attention
+283,positive,High,Immediate medical attention
+284,positive,High,Immediate medical attention
+285,negative,Moderate,Monitor closely and consult doctor
+286,positive,High,Immediate medical attention
+287,negative,Low,Maintain healthy lifestyle
+288,negative,Low,Maintain healthy lifestyle
+289,positive,High,Immediate medical attention
+290,negative,Low,Maintain healthy lifestyle
+291,negative,Low,Maintain healthy lifestyle
+292,negative,Low,Maintain healthy lifestyle
+293,negative,Low,Maintain healthy lifestyle
+294,positive,High,Immediate medical attention
+295,positive,High,Immediate medical attention
+296,negative,Low,Maintain healthy lifestyle
+297,positive,High,Immediate medical attention
+298,negative,Low,Maintain healthy lifestyle
+299,positive,High,Immediate medical attention
+300,positive,High,Immediate medical attention
+301,negative,Low,Maintain healthy lifestyle
+302,positive,High,Immediate medical attention
+303,positive,High,Immediate medical attention
+304,positive,High,Immediate medical attention
+305,positive,High,Immediate medical attention
+306,positive,High,Immediate medical attention
+307,negative,Moderate,Monitor closely and consult doctor
+308,positive,High,Immediate medical attention
+309,negative,Moderate,Monitor closely and consult doctor
+310,positive,High,Immediate medical attention
+311,positive,High,Immediate medical attention
+312,positive,High,Immediate medical attention
+313,positive,High,Immediate medical attention
+314,positive,High,Immediate medical attention
+315,positive,High,Immediate medical attention
+316,negative,Moderate,Monitor closely and consult doctor
+317,positive,High,Immediate medical attention
+318,negative,Low,Maintain healthy lifestyle
+319,negative,Low,Maintain healthy lifestyle
+320,negative,Low,Maintain healthy lifestyle
+321,positive,High,Immediate medical attention
+322,negative,Low,Maintain healthy lifestyle
+323,positive,High,Immediate medical attention
+324,positive,High,Immediate medical attention
+325,positive,High,Immediate medical attention
+326,positive,High,Immediate medical attention
+327,positive,High,Immediate medical attention
+328,positive,High,Immediate medical attention
+329,positive,High,Immediate medical attention
+330,positive,High,Immediate medical attention
+331,negative,Moderate,Monitor closely and consult doctor
+332,positive,High,Immediate medical attention
+333,negative,Low,Maintain healthy lifestyle
+334,positive,High,Immediate medical attention
+335,positive,High,Immediate medical attention
+336,negative,Low,Maintain healthy lifestyle
+337,positive,High,Immediate medical attention
+338,positive,High,Immediate medical attention
+339,positive,High,Immediate medical attention
+340,negative,Low,Maintain healthy lifestyle
+341,positive,High,Immediate medical attention
+342,positive,High,Immediate medical attention
+343,positive,High,Immediate medical attention
+344,positive,High,Immediate medical attention
+345,negative,Low,Maintain healthy lifestyle
+346,positive,High,Immediate medical attention
+347,positive,High,Immediate medical attention
+348,negative,Low,Maintain healthy lifestyle
+349,positive,High,Immediate medical attention
+350,positive,High,Immediate medical attention
+351,negative,Low,Maintain healthy lifestyle
+352,positive,High,Immediate medical attention
+353,negative,Low,Maintain healthy lifestyle
+354,positive,High,Immediate medical attention
+355,negative,Low,Maintain healthy lifestyle
+356,negative,Low,Maintain healthy lifestyle
+357,positive,High,Immediate medical attention
+358,positive,High,Immediate medical attention
+359,positive,High,Immediate medical attention
+360,positive,High,Immediate medical attention
+361,negative,Moderate,Monitor closely and consult doctor
+362,positive,High,Immediate medical attention
+363,positive,High,Immediate medical attention
+364,positive,High,Immediate medical attention
+365,negative,Moderate,Monitor closely and consult doctor
+366,negative,Moderate,Monitor closely and consult doctor
+367,positive,High,Immediate medical attention
+368,positive,High,Immediate medical attention
+369,positive,High,Immediate medical attention
+370,positive,High,Immediate medical attention
+371,positive,High,Immediate medical attention
+372,positive,High,Immediate medical attention
+373,positive,High,Immediate medical attention
+374,positive,High,Immediate medical attention
+375,positive,High,Immediate medical attention
+376,positive,High,Immediate medical attention
+377,positive,High,Immediate medical attention
+378,positive,High,Immediate medical attention
+379,positive,High,Immediate medical attention
+380,negative,Moderate,Monitor closely and consult doctor
+381,positive,High,Immediate medical attention
+382,negative,Moderate,Monitor closely and consult doctor
+383,positive,High,Immediate medical attention
+384,negative,Low,Maintain healthy lifestyle
+385,positive,High,Immediate medical attention
+386,positive,High,Immediate medical attention
+387,positive,High,Immediate medical attention
+388,positive,High,Immediate medical attention
+389,negative,Moderate,Monitor closely and consult doctor
+390,positive,High,Immediate medical attention
+391,negative,Low,Maintain healthy lifestyle
+392,positive,High,Immediate medical attention
+393,positive,High,Immediate medical attention
+394,positive,High,Immediate medical attention
+395,positive,High,Immediate medical attention
+396,negative,Moderate,Monitor closely and consult doctor
+397,positive,High,Immediate medical attention
+398,negative,Moderate,Monitor closely and consult doctor
+399,positive,High,Immediate medical attention
+400,positive,High,Immediate medical attention
+401,negative,Moderate,Monitor closely and consult doctor
+402,negative,Moderate,Monitor closely and consult doctor
+403,positive,High,Immediate medical attention
+404,positive,High,Immediate medical attention
+405,positive,High,Immediate medical attention
+406,positive,High,Immediate medical attention
+407,positive,High,Immediate medical attention
+408,negative,Low,Maintain healthy lifestyle
+409,positive,High,Immediate medical attention
+410,negative,Low,Maintain healthy lifestyle
+411,positive,High,Immediate medical attention
+412,positive,High,Immediate medical attention
+413,positive,High,Immediate medical attention
+414,positive,High,Immediate medical attention
+415,positive,High,Immediate medical attention
+416,negative,Low,Maintain healthy lifestyle
+417,positive,High,Immediate medical attention
+418,positive,High,Immediate medical attention
+419,negative,Low,Maintain healthy lifestyle
+420,positive,High,Immediate medical attention
+421,negative,Low,Maintain healthy lifestyle
+422,positive,High,Immediate medical attention
+423,positive,High,Immediate medical attention
+424,positive,High,Immediate medical attention
+425,positive,High,Immediate medical attention
+426,negative,Low,Maintain healthy lifestyle
+427,positive,High,Immediate medical attention
+428,positive,High,Immediate medical attention
+429,negative,Moderate,Monitor closely and consult doctor
+430,positive,High,Immediate medical attention
+431,negative,Moderate,Monitor closely and consult doctor
+432,positive,High,Immediate medical attention
+433,positive,High,Immediate medical attention
+434,positive,High,Immediate medical attention
+435,positive,High,Immediate medical attention
+436,positive,High,Immediate medical attention
+437,negative,Low,Maintain healthy lifestyle
+438,positive,High,Immediate medical attention
+439,negative,Low,Maintain healthy lifestyle
+440,positive,High,Immediate medical attention
+441,negative,Moderate,Monitor closely and consult doctor
+442,negative,Moderate,Monitor closely and consult doctor
+443,positive,High,Immediate medical attention
+444,negative,Moderate,Monitor closely and consult doctor
+445,positive,High,Immediate medical attention
+446,positive,High,Immediate medical attention
+447,positive,High,Immediate medical attention
+448,negative,Moderate,Monitor closely and consult doctor
+449,positive,High,Immediate medical attention
+450,negative,Moderate,Monitor closely and consult doctor
+451,negative,Moderate,Monitor closely and consult doctor
+452,positive,High,Immediate medical attention
+453,positive,High,Immediate medical attention
+454,negative,Low,Maintain healthy lifestyle
+455,positive,High,Immediate medical attention
+456,positive,High,Immediate medical attention
+457,negative,Moderate,Monitor closely and consult doctor
+458,negative,Low,Maintain healthy lifestyle
+459,positive,High,Immediate medical attention
+460,negative,Low,Maintain healthy lifestyle
+461,negative,Moderate,Monitor closely and consult doctor
+462,positive,High,Immediate medical attention
+463,negative,Moderate,Monitor closely and consult doctor
+464,negative,Moderate,Monitor closely and consult doctor
+465,negative,Moderate,Monitor closely and consult doctor
+466,positive,High,Immediate medical attention
+467,positive,High,Immediate medical attention
+468,positive,High,Immediate medical attention
+469,positive,High,Immediate medical attention
+470,positive,High,Immediate medical attention
+471,positive,High,Immediate medical attention
+472,negative,Low,Maintain healthy lifestyle
+473,positive,High,Immediate medical attention
+474,negative,Moderate,Monitor closely and consult doctor
+475,negative,Low,Maintain healthy lifestyle
+476,positive,High,Immediate medical attention
+477,positive,High,Immediate medical attention
+478,positive,High,Immediate medical attention
+479,positive,High,Immediate medical attention
+480,positive,High,Immediate medical attention
+481,positive,High,Immediate medical attention
+482,negative,Low,Maintain healthy lifestyle
+483,positive,High,Immediate medical attention
+484,positive,High,Immediate medical attention
+485,positive,High,Immediate medical attention
+486,positive,High,Immediate medical attention
+487,positive,High,Immediate medical attention
+488,positive,High,Immediate medical attention
+489,positive,High,Immediate medical attention
+490,negative,Moderate,Monitor closely and consult doctor
+491,positive,High,Immediate medical attention
+492,negative,Low,Maintain healthy lifestyle
+493,negative,Low,Maintain healthy lifestyle
+494,negative,Low,Maintain healthy lifestyle
+495,negative,Low,Maintain healthy lifestyle
+496,negative,Low,Maintain healthy lifestyle
+497,positive,High,Immediate medical attention
+498,positive,High,Immediate medical attention
+499,positive,High,Immediate medical attention
+500,negative,Low,Maintain healthy lifestyle
+501,positive,High,Immediate medical attention
+502,positive,High,Immediate medical attention
+503,positive,High,Immediate medical attention
+504,positive,High,Immediate medical attention
+505,negative,Low,Maintain healthy lifestyle
+506,negative,Low,Maintain healthy lifestyle
+507,positive,High,Immediate medical attention
+508,positive,High,Immediate medical attention
+509,positive,High,Immediate medical attention
+510,positive,High,Immediate medical attention
+511,positive,High,Immediate medical attention
+512,positive,High,Immediate medical attention
+513,positive,High,Immediate medical attention
+514,negative,Low,Maintain healthy lifestyle
+515,positive,High,Immediate medical attention
+516,negative,Low,Maintain healthy lifestyle
+517,negative,Moderate,Monitor closely and consult doctor
+518,negative,Moderate,Monitor closely and consult doctor
+519,positive,High,Immediate medical attention
+520,positive,High,Immediate medical attention
+521,negative,Moderate,Monitor closely and consult doctor
+522,negative,Low,Maintain healthy lifestyle
+523,positive,High,Immediate medical attention
+524,positive,High,Immediate medical attention
+525,positive,High,Immediate medical attention
+526,negative,Low,Maintain healthy lifestyle
+527,negative,Low,Maintain healthy lifestyle
+528,negative,Moderate,Monitor closely and consult doctor
+529,negative,Moderate,Monitor closely and consult doctor
+530,negative,Moderate,Monitor closely and consult doctor
+531,positive,High,Immediate medical attention
+532,positive,High,Immediate medical attention
+533,negative,Low,Maintain healthy lifestyle
+534,negative,Low,Maintain healthy lifestyle
+535,negative,Low,Maintain healthy lifestyle
+536,positive,High,Immediate medical attention
+537,positive,High,Immediate medical attention
+538,negative,Moderate,Monitor closely and consult doctor
+539,positive,High,Immediate medical attention
+540,positive,High,Immediate medical attention
+541,positive,High,Immediate medical attention
+542,negative,Low,Maintain healthy lifestyle
+543,positive,High,Immediate medical attention
+544,positive,High,Immediate medical attention
+545,negative,Low,Maintain healthy lifestyle
+546,positive,High,Immediate medical attention
+547,negative,Low,Maintain healthy lifestyle
+548,positive,High,Immediate medical attention
+549,positive,High,Immediate medical attention
+550,negative,Low,Maintain healthy lifestyle
+551,positive,High,Immediate medical attention
+552,positive,High,Immediate medical attention
+553,positive,High,Immediate medical attention
+554,positive,High,Immediate medical attention
+555,positive,High,Immediate medical attention
+556,positive,High,Immediate medical attention
+557,positive,High,Immediate medical attention
+558,positive,High,Immediate medical attention
+559,positive,High,Immediate medical attention
+560,positive,High,Immediate medical attention
+561,positive,High,Immediate medical attention
+562,positive,High,Immediate medical attention
+563,positive,High,Immediate medical attention
+564,positive,High,Immediate medical attention
+565,negative,Moderate,Monitor closely and consult doctor
+566,positive,High,Immediate medical attention
+567,negative,Low,Maintain healthy lifestyle
+568,negative,Low,Maintain healthy lifestyle
+569,positive,High,Immediate medical attention
+570,positive,High,Immediate medical attention
+571,negative,Low,Maintain healthy lifestyle
+572,positive,High,Immediate medical attention
+573,positive,High,Immediate medical attention
+574,positive,High,Immediate medical attention
+575,negative,Low,Maintain healthy lifestyle
+576,positive,High,Immediate medical attention
+577,positive,High,Immediate medical attention
+578,negative,Low,Maintain healthy lifestyle
+579,positive,High,Immediate medical attention
+580,positive,High,Immediate medical attention
+581,positive,High,Immediate medical attention
+582,negative,Low,Maintain healthy lifestyle
+583,positive,High,Immediate medical attention
+584,positive,High,Immediate medical attention
+585,negative,Low,Maintain healthy lifestyle
+586,positive,High,Immediate medical attention
+587,positive,High,Immediate medical attention
+588,negative,Moderate,Monitor closely and consult doctor
+589,negative,Low,Maintain healthy lifestyle
+590,positive,High,Immediate medical attention
+591,positive,High,Immediate medical attention
+592,negative,Low,Maintain healthy lifestyle
+593,negative,Moderate,Monitor closely and consult doctor
+594,positive,High,Immediate medical attention
+595,negative,Moderate,Monitor closely and consult doctor
+596,negative,Moderate,Monitor closely and consult doctor
+597,negative,Moderate,Monitor closely and consult doctor
+598,negative,Moderate,Monitor closely and consult doctor
+599,negative,Moderate,Monitor closely and consult doctor
+600,positive,High,Immediate medical attention
+601,positive,High,Immediate medical attention
+602,positive,High,Immediate medical attention
+603,negative,Low,Maintain healthy lifestyle
+604,positive,High,Immediate medical attention
+605,negative,Moderate,Monitor closely and consult doctor
+606,positive,High,Immediate medical attention
+607,positive,High,Immediate medical attention
+608,positive,High,Immediate medical attention
+609,negative,Low,Maintain healthy lifestyle
+610,positive,High,Immediate medical attention
+611,negative,Low,Maintain healthy lifestyle
+612,positive,High,Immediate medical attention
+613,positive,High,Immediate medical attention
+614,positive,High,Immediate medical attention
+615,positive,High,Immediate medical attention
+616,negative,Moderate,Monitor closely and consult doctor
+617,negative,Low,Maintain healthy lifestyle
+618,positive,High,Immediate medical attention
+619,negative,Moderate,Monitor closely and consult doctor
+620,positive,High,Immediate medical attention
+621,positive,High,Immediate medical attention
+622,positive,High,Immediate medical attention
+623,negative,Low,Maintain healthy lifestyle
+624,negative,Moderate,Monitor closely and consult doctor
+625,positive,High,Immediate medical attention
+626,positive,High,Immediate medical attention
+627,positive,High,Immediate medical attention
+628,positive,High,Immediate medical attention
+629,positive,High,Immediate medical attention
+630,positive,High,Immediate medical attention
+631,negative,Low,Maintain healthy lifestyle
+632,negative,Low,Maintain healthy lifestyle
+633,positive,High,Immediate medical attention
+634,positive,High,Immediate medical attention
+635,positive,High,Immediate medical attention
+636,negative,Low,Maintain healthy lifestyle
+637,negative,Low,Maintain healthy lifestyle
+638,negative,Low,Maintain healthy lifestyle
+639,positive,High,Immediate medical attention
+640,positive,High,Immediate medical attention
+641,positive,High,Immediate medical attention
+642,positive,High,Immediate medical attention
+643,negative,Moderate,Monitor closely and consult doctor
+644,negative,Moderate,Monitor closely and consult doctor
+645,positive,High,Immediate medical attention
+646,positive,High,Immediate medical attention
+647,positive,High,Immediate medical attention
+648,positive,High,Immediate medical attention
+649,positive,High,Immediate medical attention
+650,negative,Low,Maintain healthy lifestyle
+651,positive,High,Immediate medical attention
+652,positive,High,Immediate medical attention
+653,negative,Moderate,Monitor closely and consult doctor
+654,positive,High,Immediate medical attention
+655,negative,Moderate,Monitor closely and consult doctor
+656,negative,Low,Maintain healthy lifestyle
+657,positive,High,Immediate medical attention
+658,positive,High,Immediate medical attention
+659,negative,Low,Maintain healthy lifestyle
+660,positive,High,Immediate medical attention
+661,positive,High,Immediate medical attention
+662,positive,High,Immediate medical attention
+663,positive,High,Immediate medical attention
+664,positive,High,Immediate medical attention
+665,negative,Low,Maintain healthy lifestyle
+666,negative,Low,Maintain healthy lifestyle
+667,positive,High,Immediate medical attention
+668,positive,High,Immediate medical attention
+669,positive,High,Immediate medical attention
+670,negative,Moderate,Monitor closely and consult doctor
+671,negative,Moderate,Monitor closely and consult doctor
+672,negative,Moderate,Monitor closely and consult doctor
+673,positive,High,Immediate medical attention
+674,positive,High,Immediate medical attention
+675,positive,High,Immediate medical attention
+676,positive,High,Immediate medical attention
+677,negative,Low,Maintain healthy lifestyle
+678,positive,High,Immediate medical attention
+679,negative,Low,Maintain healthy lifestyle
+680,negative,Low,Maintain healthy lifestyle
+681,positive,High,Immediate medical attention
+682,positive,High,Immediate medical attention
+683,positive,High,Immediate medical attention
+684,negative,Low,Maintain healthy lifestyle
+685,positive,High,Immediate medical attention
+686,negative,Low,Maintain healthy lifestyle
+687,positive,High,Immediate medical attention
+688,positive,High,Immediate medical attention
+689,negative,Moderate,Monitor closely and consult doctor
+690,negative,Moderate,Monitor closely and consult doctor
+691,positive,High,Immediate medical attention
+692,negative,Low,Maintain healthy lifestyle
+693,negative,Low,Maintain healthy lifestyle
+694,negative,Moderate,Monitor closely and consult doctor
+695,negative,Low,Maintain healthy lifestyle
+696,positive,High,Immediate medical attention
+697,positive,High,Immediate medical attention
+698,positive,High,Immediate medical attention
+699,positive,High,Immediate medical attention
+700,positive,High,Immediate medical attention
+701,positive,High,Immediate medical attention
+702,positive,High,Immediate medical attention
+703,negative,Moderate,Monitor closely and consult doctor
+704,negative,Low,Maintain healthy lifestyle
+705,negative,Low,Maintain healthy lifestyle
+706,positive,High,Immediate medical attention
+707,positive,High,Immediate medical attention
+708,negative,Low,Maintain healthy lifestyle
+709,negative,Low,Maintain healthy lifestyle
+710,negative,Low,Maintain healthy lifestyle
+711,positive,High,Immediate medical attention
+712,positive,High,Immediate medical attention
+713,positive,High,Immediate medical attention
+714,negative,Low,Maintain healthy lifestyle
+715,positive,High,Immediate medical attention
+716,positive,High,Immediate medical attention
+717,negative,Moderate,Monitor closely and consult doctor
+718,positive,High,Immediate medical attention
+719,positive,High,Immediate medical attention
+720,positive,High,Immediate medical attention
+721,positive,High,Immediate medical attention
+722,positive,High,Immediate medical attention
+723,positive,High,Immediate medical attention
+724,negative,Low,Maintain healthy lifestyle
+725,positive,High,Immediate medical attention
+726,positive,High,Immediate medical attention
+727,negative,Low,Maintain healthy lifestyle
+728,positive,High,Immediate medical attention
+729,positive,High,Immediate medical attention
+730,negative,Moderate,Monitor closely and consult doctor
+731,positive,High,Immediate medical attention
+732,positive,High,Immediate medical attention
+733,positive,High,Immediate medical attention
+734,positive,High,Immediate medical attention
+735,negative,Moderate,Monitor closely and consult doctor
+736,positive,High,Immediate medical attention
+737,negative,Low,Maintain healthy lifestyle
+738,positive,High,Immediate medical attention
+739,positive,High,Immediate medical attention
+740,positive,High,Immediate medical attention
+741,positive,High,Immediate medical attention
+742,positive,High,Immediate medical attention
+743,negative,Low,Maintain healthy lifestyle
+744,positive,High,Immediate medical attention
+745,positive,High,Immediate medical attention
+746,negative,Moderate,Monitor closely and consult doctor
+747,negative,Low,Maintain healthy lifestyle
+748,negative,Moderate,Monitor closely and consult doctor
+749,negative,Low,Maintain healthy lifestyle
+750,negative,Moderate,Monitor closely and consult doctor
+751,negative,Low,Maintain healthy lifestyle
+752,positive,High,Immediate medical attention
+753,positive,High,Immediate medical attention
+754,positive,High,Immediate medical attention
+755,positive,High,Immediate medical attention
+756,negative,Low,Maintain healthy lifestyle
+757,positive,High,Immediate medical attention
+758,negative,Low,Maintain healthy lifestyle
+759,negative,Moderate,Monitor closely and consult doctor
+760,positive,High,Immediate medical attention
+761,negative,Low,Maintain healthy lifestyle
+762,positive,High,Immediate medical attention
+763,positive,High,Immediate medical attention
+764,positive,High,Immediate medical attention
+765,negative,Low,Maintain healthy lifestyle
+766,positive,High,Immediate medical attention
+767,negative,Moderate,Monitor closely and consult doctor
+768,negative,Moderate,Monitor closely and consult doctor
+769,negative,Moderate,Monitor closely and consult doctor
+770,positive,High,Immediate medical attention
+771,positive,High,Immediate medical attention
+772,positive,High,Immediate medical attention
+773,negative,Low,Maintain healthy lifestyle
+774,positive,High,Immediate medical attention
+775,positive,High,Immediate medical attention
+776,negative,Low,Maintain healthy lifestyle
+777,positive,High,Immediate medical attention
+778,negative,Low,Maintain healthy lifestyle
+779,positive,High,Immediate medical attention
+780,positive,High,Immediate medical attention
+781,negative,Moderate,Monitor closely and consult doctor
+782,positive,High,Immediate medical attention
+783,negative,Low,Maintain healthy lifestyle
+784,positive,High,Immediate medical attention
+785,positive,High,Immediate medical attention
+786,positive,High,Immediate medical attention
+787,positive,High,Immediate medical attention
+788,positive,High,Immediate medical attention
+789,negative,Moderate,Monitor closely and consult doctor
+790,negative,Low,Maintain healthy lifestyle
+791,negative,Low,Maintain healthy lifestyle
+792,positive,High,Immediate medical attention
+793,negative,Low,Maintain healthy lifestyle
+794,negative,Moderate,Monitor closely and consult doctor
+795,positive,High,Immediate medical attention
+796,positive,High,Immediate medical attention
+797,positive,High,Immediate medical attention
+798,positive,High,Immediate medical attention
+799,positive,High,Immediate medical attention
+800,positive,High,Immediate medical attention
+801,positive,High,Immediate medical attention
+802,positive,High,Immediate medical attention
+803,positive,High,Immediate medical attention
+804,negative,Low,Maintain healthy lifestyle
+805,positive,High,Immediate medical attention
+806,negative,Low,Maintain healthy lifestyle
+807,positive,High,Immediate medical attention
+808,positive,High,Immediate medical attention
+809,positive,High,Immediate medical attention
+810,positive,High,Immediate medical attention
+811,positive,High,Immediate medical attention
+812,positive,High,Immediate medical attention
+813,negative,Low,Maintain healthy lifestyle
+814,negative,Low,Maintain healthy lifestyle
+815,positive,High,Immediate medical attention
+816,negative,Moderate,Monitor closely and consult doctor
+817,positive,High,Immediate medical attention
+818,negative,Low,Maintain healthy lifestyle
+819,positive,High,Immediate medical attention
+820,positive,High,Immediate medical attention
+821,negative,Low,Maintain healthy lifestyle
+822,positive,High,Immediate medical attention
+823,positive,High,Immediate medical attention
+824,negative,Low,Maintain healthy lifestyle
+825,positive,High,Immediate medical attention
+826,positive,High,Immediate medical attention
+827,negative,Low,Maintain healthy lifestyle
+828,positive,High,Immediate medical attention
+829,positive,High,Immediate medical attention
+830,positive,High,Immediate medical attention
+831,positive,High,Immediate medical attention
+832,negative,Low,Maintain healthy lifestyle
+833,negative,Low,Maintain healthy lifestyle
+834,positive,High,Immediate medical attention
+835,positive,High,Immediate medical attention
+836,positive,High,Immediate medical attention
+837,positive,High,Immediate medical attention
+838,positive,High,Immediate medical attention
+839,negative,Moderate,Monitor closely and consult doctor
+840,negative,Moderate,Monitor closely and consult doctor
+841,negative,Low,Maintain healthy lifestyle
+842,positive,High,Immediate medical attention
+843,positive,High,Immediate medical attention
+844,negative,Low,Maintain healthy lifestyle
+845,positive,High,Immediate medical attention
+846,positive,High,Immediate medical attention
+847,negative,Moderate,Monitor closely and consult doctor
+848,positive,High,Immediate medical attention
+849,positive,High,Immediate medical attention
+850,positive,High,Immediate medical attention
+851,negative,Moderate,Monitor closely and consult doctor
+852,positive,High,Immediate medical attention
+853,negative,Low,Maintain healthy lifestyle
+854,negative,Moderate,Monitor closely and consult doctor
+855,positive,High,Immediate medical attention
+856,negative,Moderate,Monitor closely and consult doctor
+857,positive,High,Immediate medical attention
+858,negative,Moderate,Monitor closely and consult doctor
+859,negative,Moderate,Monitor closely and consult doctor
+860,positive,High,Immediate medical attention
+861,negative,Moderate,Monitor closely and consult doctor
+862,negative,Moderate,Monitor closely and consult doctor
+863,positive,High,Immediate medical attention
+864,positive,High,Immediate medical attention
+865,positive,High,Immediate medical attention
+866,positive,High,Immediate medical attention
+867,positive,High,Immediate medical attention
+868,negative,Low,Maintain healthy lifestyle
+869,positive,High,Immediate medical attention
+870,negative,Low,Maintain healthy lifestyle
+871,positive,High,Immediate medical attention
+872,positive,High,Immediate medical attention
+873,positive,High,Immediate medical attention
+874,negative,Low,Maintain healthy lifestyle
+875,positive,High,Immediate medical attention
+876,negative,Moderate,Monitor closely and consult doctor
+877,negative,Moderate,Monitor closely and consult doctor
+878,positive,High,Immediate medical attention
+879,positive,High,Immediate medical attention
+880,negative,Low,Maintain healthy lifestyle
+881,positive,High,Immediate medical attention
+882,positive,High,Immediate medical attention
+883,negative,Low,Maintain healthy lifestyle
+884,positive,High,Immediate medical attention
+885,positive,High,Immediate medical attention
+886,positive,High,Immediate medical attention
+887,negative,Low,Maintain healthy lifestyle
+888,negative,Low,Maintain healthy lifestyle
+889,positive,High,Immediate medical attention
+890,positive,High,Immediate medical attention
+891,positive,High,Immediate medical attention
+892,negative,Moderate,Monitor closely and consult doctor
+893,negative,Moderate,Monitor closely and consult doctor
+894,positive,High,Immediate medical attention
+895,positive,High,Immediate medical attention
+896,positive,High,Immediate medical attention
+897,positive,High,Immediate medical attention
+898,negative,Low,Maintain healthy lifestyle
+899,positive,High,Immediate medical attention
+900,negative,Low,Maintain healthy lifestyle
+901,positive,High,Immediate medical attention
+902,positive,High,Immediate medical attention
+903,positive,High,Immediate medical attention
+904,negative,Low,Maintain healthy lifestyle
+905,negative,Low,Maintain healthy lifestyle
+906,negative,Low,Maintain healthy lifestyle
+907,positive,High,Immediate medical attention
+908,positive,High,Immediate medical attention
+909,negative,Low,Maintain healthy lifestyle
+910,positive,High,Immediate medical attention
+911,positive,High,Immediate medical attention
+912,positive,High,Immediate medical attention
+913,positive,High,Immediate medical attention
+914,positive,High,Immediate medical attention
+915,positive,High,Immediate medical attention
+916,negative,Moderate,Monitor closely and consult doctor
+917,negative,Low,Maintain healthy lifestyle
+918,negative,Low,Maintain healthy lifestyle
+919,negative,Low,Maintain healthy lifestyle
+920,negative,Low,Maintain healthy lifestyle
+921,positive,High,Immediate medical attention
+922,negative,Moderate,Monitor closely and consult doctor
+923,positive,High,Immediate medical attention
+924,positive,High,Immediate medical attention
+925,positive,High,Immediate medical attention
+926,negative,Low,Maintain healthy lifestyle
+927,positive,High,Immediate medical attention
+928,positive,High,Immediate medical attention
+929,negative,Moderate,Monitor closely and consult doctor
+930,positive,High,Immediate medical attention
+931,positive,High,Immediate medical attention
+932,negative,Moderate,Monitor closely and consult doctor
+933,positive,High,Immediate medical attention
+934,negative,Low,Maintain healthy lifestyle
+935,positive,High,Immediate medical attention
+936,positive,High,Immediate medical attention
+937,positive,High,Immediate medical attention
+938,positive,High,Immediate medical attention
+939,positive,High,Immediate medical attention
+940,positive,High,Immediate medical attention
+941,negative,Low,Maintain healthy lifestyle
+942,positive,High,Immediate medical attention
+943,positive,High,Immediate medical attention
+944,negative,Low,Maintain healthy lifestyle
+945,negative,Moderate,Monitor closely and consult doctor
+946,positive,High,Immediate medical attention
+947,positive,High,Immediate medical attention
+948,positive,High,Immediate medical attention
+949,negative,Moderate,Monitor closely and consult doctor
+950,negative,Low,Maintain healthy lifestyle
+951,negative,Moderate,Monitor closely and consult doctor
+952,negative,Low,Maintain healthy lifestyle
+953,negative,Moderate,Monitor closely and consult doctor
+954,positive,High,Immediate medical attention
+955,positive,High,Immediate medical attention
+956,negative,Moderate,Monitor closely and consult doctor
+957,positive,High,Immediate medical attention
+958,negative,Moderate,Monitor closely and consult doctor
+959,positive,High,Immediate medical attention
+960,positive,High,Immediate medical attention
+961,positive,High,Immediate medical attention
+962,negative,Low,Maintain healthy lifestyle
+963,negative,Low,Maintain healthy lifestyle
+964,positive,High,Immediate medical attention
+965,positive,High,Immediate medical attention
+966,negative,Moderate,Monitor closely and consult doctor
+967,positive,High,Immediate medical attention
+968,positive,High,Immediate medical attention
+969,positive,High,Immediate medical attention
+970,negative,Moderate,Monitor closely and consult doctor
+971,negative,Low,Maintain healthy lifestyle
+972,positive,High,Immediate medical attention
+973,positive,High,Immediate medical attention
+974,negative,Low,Maintain healthy lifestyle
+975,positive,High,Immediate medical attention
+976,negative,Moderate,Monitor closely and consult doctor
+977,negative,Moderate,Monitor closely and consult doctor
+978,positive,High,Immediate medical attention
+979,positive,High,Immediate medical attention
+980,positive,High,Immediate medical attention
+981,positive,High,Immediate medical attention
+982,positive,High,Immediate medical attention
+983,positive,High,Immediate medical attention
+984,negative,Low,Maintain healthy lifestyle
+985,negative,Low,Maintain healthy lifestyle
+986,positive,High,Immediate medical attention
+987,positive,High,Immediate medical attention
+988,positive,High,Immediate medical attention
+989,positive,High,Immediate medical attention
+990,negative,Low,Maintain healthy lifestyle
+991,negative,Moderate,Monitor closely and consult doctor
+992,negative,Moderate,Monitor closely and consult doctor
+993,positive,High,Immediate medical attention
+994,negative,Moderate,Monitor closely and consult doctor
+995,positive,High,Immediate medical attention
+996,positive,High,Immediate medical attention
+997,negative,Moderate,Monitor closely and consult doctor
+998,positive,High,Immediate medical attention
+999,positive,High,Immediate medical attention
+1000,positive,High,Immediate medical attention
+1001,positive,High,Immediate medical attention
+1002,negative,Moderate,Monitor closely and consult doctor
+1003,negative,Moderate,Monitor closely and consult doctor
+1004,positive,High,Immediate medical attention
+1005,positive,High,Immediate medical attention
+1006,positive,High,Immediate medical attention
+1007,positive,High,Immediate medical attention
+1008,positive,High,Immediate medical attention
+1009,positive,High,Immediate medical attention
+1010,negative,Low,Maintain healthy lifestyle
+1011,negative,Moderate,Monitor closely and consult doctor
+1012,positive,High,Immediate medical attention
+1013,positive,High,Immediate medical attention
+1014,negative,Moderate,Monitor closely and consult doctor
+1015,negative,Low,Maintain healthy lifestyle
+1016,positive,High,Immediate medical attention
+1017,negative,Low,Maintain healthy lifestyle
+1018,positive,High,Immediate medical attention
+1019,negative,Moderate,Monitor closely and consult doctor
+1020,negative,Moderate,Monitor closely and consult doctor
+1021,negative,Moderate,Monitor closely and consult doctor
+1022,positive,High,Immediate medical attention
+1023,negative,Moderate,Monitor closely and consult doctor
+1024,positive,High,Immediate medical attention
+1025,positive,High,Immediate medical attention
+1026,positive,High,Immediate medical attention
+1027,negative,Moderate,Monitor closely and consult doctor
+1028,positive,High,Immediate medical attention
+1029,positive,High,Immediate medical attention
+1030,positive,High,Immediate medical attention
+1031,negative,Moderate,Monitor closely and consult doctor
+1032,positive,High,Immediate medical attention
+1033,negative,Moderate,Monitor closely and consult doctor
+1034,negative,Moderate,Monitor closely and consult doctor
+1035,positive,High,Immediate medical attention
+1036,negative,Moderate,Monitor closely and consult doctor
+1037,positive,High,Immediate medical attention
+1038,positive,High,Immediate medical attention
+1039,negative,Moderate,Monitor closely and consult doctor
+1040,positive,High,Immediate medical attention
+1041,positive,High,Immediate medical attention
+1042,negative,Low,Maintain healthy lifestyle
+1043,negative,Low,Maintain healthy lifestyle
+1044,positive,High,Immediate medical attention
+1045,negative,Moderate,Monitor closely and consult doctor
+1046,negative,Moderate,Monitor closely and consult doctor
+1047,negative,Low,Maintain healthy lifestyle
+1048,positive,High,Immediate medical attention
+1049,positive,High,Immediate medical attention
+1050,positive,High,Immediate medical attention
+1051,positive,High,Immediate medical attention
+1052,positive,High,Immediate medical attention
+1053,positive,High,Immediate medical attention
+1054,negative,Moderate,Monitor closely and consult doctor
+1055,negative,Moderate,Monitor closely and consult doctor
+1056,positive,High,Immediate medical attention
+1057,positive,High,Immediate medical attention
+1058,positive,High,Immediate medical attention
+1059,negative,Low,Maintain healthy lifestyle
+1060,positive,High,Immediate medical attention
+1061,positive,High,Immediate medical attention
+1062,positive,High,Immediate medical attention
+1063,positive,High,Immediate medical attention
+1064,negative,Low,Maintain healthy lifestyle
+1065,positive,High,Immediate medical attention
+1066,positive,High,Immediate medical attention
+1067,positive,High,Immediate medical attention
+1068,positive,High,Immediate medical attention
+1069,negative,Moderate,Monitor closely and consult doctor
+1070,negative,Moderate,Monitor closely and consult doctor
+1071,positive,High,Immediate medical attention
+1072,positive,High,Immediate medical attention
+1073,negative,Low,Maintain healthy lifestyle
+1074,positive,High,Immediate medical attention
+1075,negative,Moderate,Monitor closely and consult doctor
+1076,negative,Low,Maintain healthy lifestyle
+1077,negative,Low,Maintain healthy lifestyle
+1078,positive,High,Immediate medical attention
+1079,positive,High,Immediate medical attention
+1080,negative,Low,Maintain healthy lifestyle
+1081,negative,Low,Maintain healthy lifestyle
+1082,negative,Low,Maintain healthy lifestyle
+1083,positive,High,Immediate medical attention
+1084,positive,High,Immediate medical attention
+1085,positive,High,Immediate medical attention
+1086,positive,High,Immediate medical attention
+1087,negative,Moderate,Monitor closely and consult doctor
+1088,negative,Low,Maintain healthy lifestyle
+1089,positive,High,Immediate medical attention
+1090,positive,High,Immediate medical attention
+1091,positive,High,Immediate medical attention
+1092,positive,High,Immediate medical attention
+1093,positive,High,Immediate medical attention
+1094,negative,Moderate,Monitor closely and consult doctor
+1095,positive,High,Immediate medical attention
+1096,positive,High,Immediate medical attention
+1097,positive,High,Immediate medical attention
+1098,negative,Moderate,Monitor closely and consult doctor
+1099,positive,High,Immediate medical attention
+1100,positive,High,Immediate medical attention
+1101,negative,Moderate,Monitor closely and consult doctor
+1102,positive,High,Immediate medical attention
+1103,positive,High,Immediate medical attention
+1104,negative,Low,Maintain healthy lifestyle
+1105,positive,High,Immediate medical attention
+1106,negative,Low,Maintain healthy lifestyle
+1107,negative,Low,Maintain healthy lifestyle
+1108,positive,High,Immediate medical attention
+1109,positive,High,Immediate medical attention
+1110,positive,High,Immediate medical attention
+1111,positive,High,Immediate medical attention
+1112,positive,High,Immediate medical attention
+1113,positive,High,Immediate medical attention
+1114,positive,High,Immediate medical attention
+1115,negative,Moderate,Monitor closely and consult doctor
+1116,positive,High,Immediate medical attention
+1117,positive,High,Immediate medical attention
+1118,positive,High,Immediate medical attention
+1119,negative,Low,Maintain healthy lifestyle
+1120,positive,High,Immediate medical attention
+1121,positive,High,Immediate medical attention
+1122,positive,High,Immediate medical attention
+1123,negative,Moderate,Monitor closely and consult doctor
+1124,negative,Moderate,Monitor closely and consult doctor
+1125,negative,Moderate,Monitor closely and consult doctor
+1126,negative,Moderate,Monitor closely and consult doctor
+1127,positive,High,Immediate medical attention
+1128,positive,High,Immediate medical attention
+1129,negative,Low,Maintain healthy lifestyle
+1130,positive,High,Immediate medical attention
+1131,negative,Low,Maintain healthy lifestyle
+1132,positive,High,Immediate medical attention
+1133,positive,High,Immediate medical attention
+1134,negative,Low,Maintain healthy lifestyle
+1135,positive,High,Immediate medical attention
+1136,positive,High,Immediate medical attention
+1137,negative,Moderate,Monitor closely and consult doctor
+1138,negative,Low,Maintain healthy lifestyle
+1139,positive,High,Immediate medical attention
+1140,negative,Moderate,Monitor closely and consult doctor
+1141,negative,Moderate,Monitor closely and consult doctor
+1142,negative,Moderate,Monitor closely and consult doctor
+1143,negative,Low,Maintain healthy lifestyle
+1144,positive,High,Immediate medical attention
+1145,positive,High,Immediate medical attention
+1146,negative,Low,Maintain healthy lifestyle
+1147,negative,Low,Maintain healthy lifestyle
+1148,positive,High,Immediate medical attention
+1149,positive,High,Immediate medical attention
+1150,positive,High,Immediate medical attention
+1151,positive,High,Immediate medical attention
+1152,positive,High,Immediate medical attention
+1153,negative,Moderate,Monitor closely and consult doctor
+1154,positive,High,Immediate medical attention
+1155,negative,Low,Maintain healthy lifestyle
+1156,negative,Low,Maintain healthy lifestyle
+1157,positive,High,Immediate medical attention
+1158,negative,Low,Maintain healthy lifestyle
+1159,positive,High,Immediate medical attention
+1160,positive,High,Immediate medical attention
+1161,negative,Low,Maintain healthy lifestyle
+1162,negative,Moderate,Monitor closely and consult doctor
+1163,negative,Moderate,Monitor closely and consult doctor
+1164,negative,Low,Maintain healthy lifestyle
+1165,positive,High,Immediate medical attention
+1166,negative,Low,Maintain healthy lifestyle
+1167,positive,High,Immediate medical attention
+1168,positive,High,Immediate medical attention
+1169,negative,Low,Maintain healthy lifestyle
+1170,positive,High,Immediate medical attention
+1171,negative,Low,Maintain healthy lifestyle
+1172,negative,Moderate,Monitor closely and consult doctor
+1173,positive,High,Immediate medical attention
+1174,positive,High,Immediate medical attention
+1175,negative,Low,Maintain healthy lifestyle
+1176,positive,High,Immediate medical attention
+1177,negative,Low,Maintain healthy lifestyle
+1178,negative,Low,Maintain healthy lifestyle
+1179,positive,High,Immediate medical attention
+1180,negative,Moderate,Monitor closely and consult doctor
+1181,positive,High,Immediate medical attention
+1182,positive,High,Immediate medical attention
+1183,positive,High,Immediate medical attention
+1184,positive,High,Immediate medical attention
+1185,negative,Low,Maintain healthy lifestyle
+1186,negative,Moderate,Monitor closely and consult doctor
+1187,negative,Moderate,Monitor closely and consult doctor
+1188,negative,Moderate,Monitor closely and consult doctor
+1189,negative,Low,Maintain healthy lifestyle
+1190,positive,High,Immediate medical attention
+1191,positive,High,Immediate medical attention
+1192,positive,High,Immediate medical attention
+1193,positive,High,Immediate medical attention
+1194,positive,High,Immediate medical attention
+1195,negative,Low,Maintain healthy lifestyle
+1196,negative,Moderate,Monitor closely and consult doctor
+1197,positive,High,Immediate medical attention
+1198,negative,Low,Maintain healthy lifestyle
+1199,positive,High,Immediate medical attention
+1200,positive,High,Immediate medical attention
+1201,positive,High,Immediate medical attention
+1202,positive,High,Immediate medical attention
+1203,positive,High,Immediate medical attention
+1204,positive,High,Immediate medical attention
+1205,positive,High,Immediate medical attention
+1206,positive,High,Immediate medical attention
+1207,positive,High,Immediate medical attention
+1208,positive,High,Immediate medical attention
+1209,positive,High,Immediate medical attention
+1210,positive,High,Immediate medical attention
+1211,negative,Moderate,Monitor closely and consult doctor
+1212,positive,High,Immediate medical attention
+1213,negative,Low,Maintain healthy lifestyle
+1214,positive,High,Immediate medical attention
+1215,positive,High,Immediate medical attention
+1216,positive,High,Immediate medical attention
+1217,positive,High,Immediate medical attention
+1218,positive,High,Immediate medical attention
+1219,negative,Low,Maintain healthy lifestyle
+1220,negative,Low,Maintain healthy lifestyle
+1221,positive,High,Immediate medical attention
+1222,positive,High,Immediate medical attention
+1223,negative,Low,Maintain healthy lifestyle
+1224,positive,High,Immediate medical attention
+1225,positive,High,Immediate medical attention
+1226,positive,High,Immediate medical attention
+1227,positive,High,Immediate medical attention
+1228,negative,Moderate,Monitor closely and consult doctor
+1229,positive,High,Immediate medical attention
+1230,positive,High,Immediate medical attention
+1231,positive,High,Immediate medical attention
+1232,positive,High,Immediate medical attention
+1233,positive,High,Immediate medical attention
+1234,negative,Moderate,Monitor closely and consult doctor
+1235,negative,Low,Maintain healthy lifestyle
+1236,positive,High,Immediate medical attention
+1237,negative,Moderate,Monitor closely and consult doctor
+1238,negative,Low,Maintain healthy lifestyle
+1239,positive,High,Immediate medical attention
+1240,positive,High,Immediate medical attention
+1241,positive,High,Immediate medical attention
+1242,positive,High,Immediate medical attention
+1243,positive,High,Immediate medical attention
+1244,positive,High,Immediate medical attention
+1245,negative,Low,Maintain healthy lifestyle
+1246,negative,Moderate,Monitor closely and consult doctor
+1247,negative,Moderate,Monitor closely and consult doctor
+1248,positive,High,Immediate medical attention
+1249,positive,High,Immediate medical attention
+1250,positive,High,Immediate medical attention
+1251,negative,Low,Maintain healthy lifestyle
+1252,positive,High,Immediate medical attention
+1253,positive,High,Immediate medical attention
+1254,positive,High,Immediate medical attention
+1255,negative,Moderate,Monitor closely and consult doctor
+1256,positive,High,Immediate medical attention
+1257,negative,Low,Maintain healthy lifestyle
+1258,positive,High,Immediate medical attention
+1259,negative,Low,Maintain healthy lifestyle
+1260,positive,High,Immediate medical attention
+1261,negative,Moderate,Monitor closely and consult doctor
+1262,positive,High,Immediate medical attention
+1263,negative,Moderate,Monitor closely and consult doctor
+1264,negative,Moderate,Monitor closely and consult doctor
+1265,positive,High,Immediate medical attention
+1266,negative,Moderate,Monitor closely and consult doctor
+1267,negative,Moderate,Monitor closely and consult doctor
+1268,positive,High,Immediate medical attention
+1269,positive,High,Immediate medical attention
+1270,negative,Low,Maintain healthy lifestyle
+1271,negative,Low,Maintain healthy lifestyle
+1272,negative,Low,Maintain healthy lifestyle
+1273,positive,High,Immediate medical attention
+1274,positive,High,Immediate medical attention
+1275,negative,Moderate,Monitor closely and consult doctor
+1276,positive,High,Immediate medical attention
+1277,positive,High,Immediate medical attention
+1278,positive,High,Immediate medical attention
+1279,positive,High,Immediate medical attention
+1280,negative,Low,Maintain healthy lifestyle
+1281,positive,High,Immediate medical attention
+1282,positive,High,Immediate medical attention
+1283,positive,High,Immediate medical attention
+1284,negative,Moderate,Monitor closely and consult doctor
+1285,positive,High,Immediate medical attention
+1286,positive,High,Immediate medical attention
+1287,negative,Low,Maintain healthy lifestyle
+1288,positive,High,Immediate medical attention
+1289,negative,Low,Maintain healthy lifestyle
+1290,positive,High,Immediate medical attention
+1291,positive,High,Immediate medical attention
+1292,positive,High,Immediate medical attention
+1293,positive,High,Immediate medical attention
+1294,positive,High,Immediate medical attention
+1295,positive,High,Immediate medical attention
+1296,positive,High,Immediate medical attention
+1297,positive,High,Immediate medical attention
+1298,negative,Moderate,Monitor closely and consult doctor
+1299,negative,Moderate,Monitor closely and consult doctor
+1300,negative,Low,Maintain healthy lifestyle
+1301,positive,High,Immediate medical attention
+1302,positive,High,Immediate medical attention
+1303,negative,Moderate,Monitor closely and consult doctor
+1304,positive,High,Immediate medical attention
+1305,positive,High,Immediate medical attention
+1306,positive,High,Immediate medical attention
+1307,positive,High,Immediate medical attention
+1308,positive,High,Immediate medical attention
+1309,negative,Moderate,Monitor closely and consult doctor
+1310,positive,High,Immediate medical attention
+1311,positive,High,Immediate medical attention
+1312,positive,High,Immediate medical attention
+1313,negative,Low,Maintain healthy lifestyle
+1314,negative,Moderate,Monitor closely and consult doctor
+1315,negative,Moderate,Monitor closely and consult doctor
+1316,positive,High,Immediate medical attention
+1317,positive,High,Immediate medical attention
+1318,positive,High,Immediate medical attention
+1319,positive,High,Immediate medical attention
